@@ -9,3 +9,5 @@ As they eat the grass, their store increases.
 The wolves randonly move by +/- 2 units at a time.
 If a wolf gets within eating_range of a sheep it eats the sheep.
 The wolf gets the sheep's store and the sheep agent is removed.
+
+To run type> python wolf.py
