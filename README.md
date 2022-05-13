@@ -1,4 +1,4 @@
-# wolves
+# wolves2
  
 In this model we have two types of agents; sheep and wolves.
 The grass (environment) has a uniform length to start with.
